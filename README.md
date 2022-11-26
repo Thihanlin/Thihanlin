@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thihanlin
-- 👀 I’m interested in ...programming PHP,Laravel, MySQL,Boostrap
-- 🌱 I’m currently learning ...PHP
+- 👀 I’m interested in ...DevOps, Linux, Powershell, Script, MySQL,
+- 🌱 I’m currently learning ...Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
