@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thihanlin
-- 👀 I’m interested in ...Sharepoint, Power Automate,Power App,  Powershell, Script, MySQL,Linux
+- 👀 I’m interested in ...Sharepoint, Power Automate,Powershell,Python,Script, MySQL,Linux
 - 🌱 I’m currently learning ...Sharepoint
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
