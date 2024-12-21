@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Thihanlin
+- 👋 Hi, I’m @Thihan
 - 👀 I’m interested in ...Sharepoint, Power Automate,Powershell,Python,Script, MySQL,Linux
-- 🌱 I’m currently learning ...Sharepoint
+- 🌱 I’m currently learning ...everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
